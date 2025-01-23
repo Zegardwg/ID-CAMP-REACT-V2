@@ -49,6 +49,7 @@ Aplikasi Catatan Pribadi adalah sebuah aplikasi berbasis web yang memungkinkan p
 - **React**: Library JavaScript untuk membangun antarmuka pengguna.
 - **React Icons**: Untuk menampilkan ikon modern di aplikasi.
 - **CSS**: Untuk gaya visual dan responsivitas aplikasi.
+- **VITE**: Agar Lebih Cepat
 
 ---
 
