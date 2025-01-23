@@ -56,7 +56,7 @@ Aplikasi Catatan Pribadi adalah sebuah aplikasi berbasis web yang memungkinkan p
 ```
 .
 ├── public
-│   ├── 1.png                # Gambar tangkapan layar aplikasi
+│   ├── 1.png                
 ├── src
 │   ├── components           # Komponen React
 │   │   ├── NoteInput.jsx    # Form untuk menambahkan catatan
@@ -103,8 +103,6 @@ http://localhost:3000
 
 ---
 
-## Screenshot Aplikasi
-![Screenshot Aplikasi](public/1.png)
 
 ---
 
