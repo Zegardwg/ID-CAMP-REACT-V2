@@ -93,23 +93,17 @@ Aplikasi Catatan Pribadi adalah sebuah aplikasi berbasis web yang memungkinkan p
 
 4. Jalankan aplikasi:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Akses aplikasi di browser:
+   ```bash
+   [npm run dev](http://localhost:5173/)
    ```
-http://localhost:3000
-```
-
----
-
-
----
 
 ## Kontributor
 - Eggar AliyaDewangga - Pengembang utama aplikasi.
 
----
 
 ## Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat berkas `LICENSE` untuk detail lebih lanjut.
